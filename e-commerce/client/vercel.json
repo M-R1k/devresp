@@ -7,5 +7,6 @@
           "distDir": "build"
         }
       }
-    ]
+    ],
+    "framework": "create-react-app"
   }
