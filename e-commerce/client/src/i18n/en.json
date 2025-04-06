@@ -1,0 +1,234 @@
+{
+  "common": { "translated-text": "Trending now" },
+  "promotion": { "translated-text": "Promotion" },
+  "specProduct": {
+    "error": "No product found",
+    "homepage": "Homepage",
+    "category": "Category:",
+    "material": "Material:",
+    "stone": "Stone:",
+    "color": "Color:",
+    "size": "Size:",
+    "weight": "Weight:",
+    "stockQty": "Stock:",
+    "quantity": "Quantity",
+    "cart": "Add to Cart"
+  },
+  "search": {
+    "error": "No product found",
+    "button": "Search",
+    "searchBar": "Search by name",
+    "select": "All Categories",
+    "cart": "Add to cart",
+    "search": "Search Bar",
+    "loading": "Searching ..."
+  },
+  "header": {
+    "home": "Home",
+    "profile": "Profile",
+    "admin": "Admin",
+    "cart": "Cart",
+    "languages": "Languages",
+    "lightmode": "Light Mode",
+    "darkmode": "Dark Mode"
+  },
+  "footer": {
+    "title": "Contact us",
+    "adress": "Adress: 74th Gamaza Street, 94270, G.A.M.A.Z.A City"
+  },
+  "categoryPage": {
+    "homepage": "Homepage",
+    "error": "No product yet"
+  },
+  "navBarAdmin": {
+    "dashboard": "Dashboard",
+    "stats": "Stats"
+  },
+  "auth": {
+    "social": "Use your social networks accounts",
+    "email": "Email :",
+    "password": "Password :",
+    "forgot": "Forgot password?",
+    "login": "Login",
+    "no-account": "You don't have an account?",
+    "register": "Register"
+  },
+  "profilPage": {
+    "profil": "My Profile",
+    "logout": "Logout",
+    "command": "My orders"
+  },
+  "commandManage": {
+    "order": "Order number",
+    "adress": "Articles",
+    "articles": "Adress",
+    "total": "Total",
+    "button": "Confirmed",
+    "buttonShip": "Shipped"
+  },
+  "editProfil": {
+    "title": "Update your profile",
+    "firstname": "Firstname",
+    "lastname": "Lastname",
+    "email": "Email ",
+    "password": "Password ",
+    "adress": "Adress ",
+    "region": "Region",
+    "zip": "ZipCode ",
+    "city": "City ",
+    "country": "Country ",
+    "phone": "Phone ",
+    "edit": "Edit ",
+    "delete": "Delete"
+  },
+  "adminPage": {
+    "error": "No data",
+    "product": "Add a product",
+    "category": "Add a category",
+    "user": "Add a user",
+    "code": "Create a discount coupon",
+    "manageUser": "Manage Users :",
+    "FullName": "Full name :",
+    "Badmin": "Become Admin",
+    "Buser": "Become User",
+    "manageProduct": "Manage Product :",
+    "title": "Title :",
+    "size": "Size :",
+    "color": "Color :",
+    "price": "Price :",
+    "manageCategory": "Manage Category :",
+    "promotion": "Promotion",
+    "shipping": "Shipping"
+  },
+  "createProduct": {
+    "title": "Create a product",
+    "productFR": "Product name FR",
+    "productEN": "Product name EN",
+    "category": "--Please choose a category--",
+    "material": "--Please choose a material--",
+    "stone": "--Please choose a stone--",
+    "size": "--Please choose a size--",
+    "image": "Image",
+    "buttonAdd": "ADD image",
+    "colorFR": "Color FR",
+    "colorEN": "Color EN",
+    "weight": "Weight",
+    "price": "Price",
+    "stock": "Stock Quantity",
+    "descriptionFR": "Description FR",
+    "descriptionEn": "Description EN",
+    "button": "Add a product"
+  },
+  "createCategory": {
+    "title": "Create a category",
+    "nameFR": "Category name FR",
+    "nameEN": "Category name EN",
+    "button": "Create a category"
+  },
+  "createUser": {
+    "email": "Your email",
+    "password": "Password",
+    "button": "Register"
+  },
+  "editCategory": {
+    "button": "Edit the category"
+  },
+  "editProduct": {
+    "chooseCategory": "Choose a category:",
+    "chooseMaterial": "Choose a material:",
+    "chooseStone": "Choose a stone:",
+    "chooseSize": "Choose a size:",
+    "choose": "--Please choose an option--",
+    "button": "Edit the product"
+  },
+  "editUser": {
+    "title": "Edit a user"
+  },
+
+  "popup": {
+    "basket": "Shopping basket",
+    "articles": "Number of articles :",
+    "subPrice": "Total price :"
+  },
+  "createPromotion": {
+    "title": " Add an promotion",
+    "pourcentage": "Discount to apply",
+    "product": "Select a product",
+    "button": "Add"
+  },
+  "manageShipping": {
+    "shippingTitle": "Manage Shipping",
+    "whitelist": "Whitelist Countries",
+    "blacklist": "Blacklist Countries",
+    "thresholdsTitle": "Free Shipping Thresholds",
+    "countrySelect": "Select a country"
+  },
+  "sizeGuidePage": {
+    "tailleChoose": "Size:",
+    "button": "Size guide",
+    "guideRings": "Ring/wedding ring size guide (EU)",
+    "taille": "Size (EU)",
+    "circonférence": "Circumference (mm)",
+    "diamètre": "Diameter (mm)",
+    "guideNecklaces": "Size guide for necklaces (EU)",
+    "longueur": "Length (cm)",
+    "guideBracelets": "Size guide for bracelets (EU)",
+    "error": "No size"
+  },
+  "stockAlert": {
+    "notify": "Notify me when back in stock",
+    "email": "Enter your email",
+    "cancel": "Cancel",
+    "submit": "Submit"
+  },
+  "reviewPage": {
+    "title": "Rate this product",
+    "button": "Send",
+    "filter": "Filter reviews",
+    "stars": "stars",
+    "date": "Filter by date",
+    "desc": "Filter by most recent reviews",
+    "asc": "Filter by oldest reviews"
+  },
+  "promotionCode": {
+    "title": "Generation a promotional code",
+    "button": "Generate",
+    "submit": "Generate promotional code"
+  },
+  "novelties": {
+    "new": "New arrivals"
+  },
+  "addressPopup": {
+    "addressOption": "Select an address",
+    "addressChoice": "Choose this address",
+    "addressName": "Name",
+    "addressEmail": "Email",
+    "addressPhone": "Phone",
+    "addressCompany": "Company",
+    "addressCountry": "Country",
+    "addressZIP": "ZIP Code",
+    "addressState": "State",
+    "addressCity": "City",
+    "addressStreet": "Street name and house number",
+    "confirm": "Confirm"
+  },
+  "cartPage": {
+    "myCart": "My cart",
+    "shippingMethod": "Shipping Method",
+    "estimatedTime": "Estimated delivery time",
+    "days": "days",
+    "isGift": "It's a gift ?",
+    "productSize": "Size",
+    "productMaterial": "Material",
+    "productStone": "Stone",
+    "productPrice": "Price",
+    "productQuantity": "Quantity",
+    "productDelete": "Delete",
+    "productSave": "Save for later",
+    "order": "Order",
+    "subTotal": "Total",
+    "address": "Address",
+    "notFound": "Address not filled",
+    "free":"Free"
+  }
+}
