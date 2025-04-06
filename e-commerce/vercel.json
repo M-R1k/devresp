@@ -1,12 +1,13 @@
 {
-    "builds": [
-      {
-        "src": "package.json",
-        "use": "@vercel/static-build",
-        "config": {
-          "distDir": "build"
-        }
+  "builds": [
+    {
+      "src": "client/package.json",
+      "use": "@vercel/static-build",
+      "config": {
+        "distDir": "build"
       }
-    ],
-    "framework": "create-react-app"
-  }
+    }
+  ],
+  "framework": "create-react-app",
+  "installCommand": "npm install --legacy-peer-deps"
+}
