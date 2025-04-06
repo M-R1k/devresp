@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.547f786a.css",
+    "main.js": "/static/js/main.66f051e7.js",
+    "static/js/738.5418cbf1.chunk.js": "/static/js/738.5418cbf1.chunk.js",
+    "static/js/653.9ec00d3f.chunk.js": "/static/js/653.9ec00d3f.chunk.js",
+    "static/js/923.50696acd.chunk.js": "/static/js/923.50696acd.chunk.js",
+    "static/js/627.80eddbcf.chunk.js": "/static/js/627.80eddbcf.chunk.js",
+    "static/js/213.2d06e9fa.chunk.js": "/static/js/213.2d06e9fa.chunk.js",
+    "static/js/732.4462740c.chunk.js": "/static/js/732.4462740c.chunk.js",
+    "static/js/453.258b012d.chunk.js": "/static/js/453.258b012d.chunk.js",
+    "static/media/register.jpg": "/static/media/register.759d5b2906593e9eba0e.jpg",
+    "static/media/login.jpg": "/static/media/login.45a6202edac86d57794c.jpg",
+    "static/media/instagram.svg": "/static/media/instagram.a0a9a83448ddb5827d70493a84d37806.svg",
+    "static/media/switchList.svg": "/static/media/switchList.20cfa7cccbd6b37117de46072a88adf1.svg",
+    "static/media/lotus.svg": "/static/media/lotus.aa0dc6ad265ce6a0a11822727cedcb56.svg",
+    "static/media/cart.svg": "/static/media/cart.805279d419a32d3eaea16cfb3a648ca0.svg",
+    "static/media/facebook.svg": "/static/media/facebook.1d8e0397525aadb52a029adc60908a02.svg",
+    "static/media/twitter.svg": "/static/media/twitter.f98fc735ff3e4e01f002fea7e135bc9d.svg",
+    "static/media/delete.svg": "/static/media/delete.1bd3da10b0ee5b39957b1e63122b0d38.svg",
+    "index.html": "/index.html",
+    "static/media/lowInStock.svg": "/static/media/lowInStock.56e9675ef771c752d35c1fb1e399fd30.svg",
+    "static/media/soldOut.svg": "/static/media/soldOut.c93ca34349cb82d6e7952fa37636968d.svg",
+    "static/media/inStock.svg": "/static/media/inStock.598594f2d80c09c7edb23e3a07d198c6.svg",
+    "static/media/save4later.svg": "/static/media/save4later.6e258f20c2bbd6ae3acc508857ae3e29.svg",
+    "main.547f786a.css.map": "/static/css/main.547f786a.css.map",
+    "main.66f051e7.js.map": "/static/js/main.66f051e7.js.map",
+    "738.5418cbf1.chunk.js.map": "/static/js/738.5418cbf1.chunk.js.map",
+    "653.9ec00d3f.chunk.js.map": "/static/js/653.9ec00d3f.chunk.js.map",
+    "923.50696acd.chunk.js.map": "/static/js/923.50696acd.chunk.js.map",
+    "627.80eddbcf.chunk.js.map": "/static/js/627.80eddbcf.chunk.js.map",
+    "213.2d06e9fa.chunk.js.map": "/static/js/213.2d06e9fa.chunk.js.map",
+    "732.4462740c.chunk.js.map": "/static/js/732.4462740c.chunk.js.map",
+    "453.258b012d.chunk.js.map": "/static/js/453.258b012d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.547f786a.css",
+    "static/js/main.66f051e7.js"
+  ]
+}
